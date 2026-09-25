@@ -1,2 +1,11 @@
-# Laravel-Mini-Project-Personal-Task-Manager_Bacalso-P
-Create a simple Personal Task Manager using Laravel. The project is individual, and you have 1 week to complete it. The goal is to apply what we learned about: Routes → Controller → Model → Database → Blade
+# Laravel Mini Project: Personal Task Manager
+Project Code: WST21-PM-2026-SF
+Student Name: Prince Zeus T. Bacalso
+Course & Year: BSIT - 2nd yr. 
+Database Used: MySQL
+Features:
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
